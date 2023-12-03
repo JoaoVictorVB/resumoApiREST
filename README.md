@@ -30,19 +30,19 @@ Os códigos de status HTTP são códigos numéricos retornados pelo servidor web
 
 ### Code and Description
 
-1. 1xx: Informational
+1.   1xx: Informational
       Isso significa que a solicitação foi recebida e o processo continua.
 
-2. 2xx: Success
+2.   2xx: Success
       Significa que a ação foi recebida, compreendida e aceita com sucesso.
 
-3. 3xx: Redirection
-     Isso significa que outras ações devem ser tomadas para concluir a solicitação.
+3.   3xx: Redirection
+      Isso significa que outras ações devem ser tomadas para concluir a solicitação.
 
-4. 4xx: Client Error
+4.   4xx: Client Error
       Isso significa que a solicitação contém sintaxe incorreta ou não pode ser atendida.
 
-5. 5xx: Server Error
+5.   5xx: Server Error
       Isso significa que o servidor não atendeu a uma solicitação aparentemente válida.
 
 
