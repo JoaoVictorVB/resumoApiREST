@@ -46,7 +46,7 @@ Os códigos de status HTTP são códigos numéricos retornados pelo servidor web
       Isso significa que o servidor não atendeu a uma solicitação aparentemente válida.
 
 
-    ---
+---
 
     Autor do resumo: João Victor da Silva Carvalho - 01549930
 
