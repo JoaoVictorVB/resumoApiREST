@@ -28,21 +28,21 @@ TRACE: executa um teste de chamada loop-back junto com o caminho para o recurso 
 
 Os códigos de status HTTP são códigos numéricos retornados pelo servidor web em resposta a uma requisição feita pelo cliente, indicando o resultado da solicitação. Esses códigos são divididos em cinco classes e cada classe possui uma série de códigos específicos.
 
-### Code and Description
+#### Code and Description
 
-1.   1xx: Informational
+   1xx: Informational
       Isso significa que a solicitação foi recebida e o processo continua.
 
-2.   2xx: Success
+   2xx: Success
       Significa que a ação foi recebida, compreendida e aceita com sucesso.
 
-3.   3xx: Redirection
+   3xx: Redirection
       Isso significa que outras ações devem ser tomadas para concluir a solicitação.
 
-4.   4xx: Client Error
+   4xx: Client Error
       Isso significa que a solicitação contém sintaxe incorreta ou não pode ser atendida.
 
-5.   5xx: Server Error
+   5xx: Server Error
       Isso significa que o servidor não atendeu a uma solicitação aparentemente válida.
 
 
